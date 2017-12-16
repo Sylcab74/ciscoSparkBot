@@ -1,0 +1,16 @@
+{
+    "name": "my_first_spark_bot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js"
+    },
+    "author": "scabiati",
+    "license": "ISC",
+    "dependencies": {
+      "botkit": "^0.6.7",
+      "express": "^4.16.2"
+    }
+  }
